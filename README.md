@@ -26,10 +26,6 @@ Este proyecto es una aplicación de escritorio en Java que permite realizar conv
 - **Manejo de Errores**: La aplicación incluye mensajes informativos que alertan al usuario sobre errores de conexión o problemas al obtener datos de la API.
 - **Actualizaciones en Tiempo Real**: Las tasas de cambio se obtienen en tiempo real, asegurando que las conversiones sean precisas.
 
-## Contribuciones
 
-Si deseas contribuir a mejorar esta aplicación, por favor abre un *pull request* o crea un *issue* en el repositorio.
 
-## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
